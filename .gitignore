@@ -1,0 +1,15 @@
+pretrained
+data
+*.pyc
+*.pth
+
+logs
+
+work_dirs
+
+/3rdparty
+/res_dirs
+
+/vis_dirs
+
+/tmp*
