@@ -1,19 +1,33 @@
 
 # [CVPR2026] RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation
 
+<div align="center">
 
+<p>
+  <a href="https://cvpr.thecvf.com/Conferences/2026"><img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square"></a>
+  <a href='https://arxiv.org/abs/2603.24295'><img src='https://img.shields.io/badge/Arxiv-2603.24295-A42C25.svg?logo=arXiv'></a>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FCVPR2026-RS-SSM&label=RS-SSM&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
+</p>
 
-<div>
-      Kai Zhu<sup>1</sup>&emsp; Zhenyu Cui<sup>2</sup>&emsp; Zehua Zang<sup>3,4</sup>&emsp; Jiahuan Zhou<sup>1 *</sup>&emsp;
-  </div>
-<div>
+<p>
+      <strong>Kai Zhu</strong><sup>1</sup>&emsp;
+      <strong>Zhenyu Cui</strong><sup>2</sup>&emsp;
+      <strong>Zehua Zang</strong><sup>3,4</sup>&emsp;
+      <strong>Jiahuan Zhou</strong><sup>1 *</sup>
+<p>
 
+<p>
   <sup>1</sup>Wangxuan Institute of Computer Technology, Peking University&emsp;
   <sup>2</sup>Tsinghua University&emsp;
   <sup>3</sup>Institute of Software Chinese Academy of Sciences&emsp;
   <sup>4</sup>University of Chinese Academy of Sciences&emsp;
+<p>
 
-The *official* repository for  [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](https://arxiv.org/abs/2603.24295).
+</div>
+
+---
+
+> The *official* repository for  [RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation](https://arxiv.org/abs/2603.24295).
 
 
 ![Framework](figs/Framework.png)
@@ -94,7 +108,16 @@ The following results were obtained with four NVIDIA 4090 GPUs:
 
 ### Citation
 
-If you find our paper and code useful in your research, please consider giving a star and citation. To do.
+If you find our paper and code useful in your research, please consider giving a star and citation.
+
+```bibtex
+@inproceedings{zhu2026rs,
+  title={RS-SSM: Refining Forgotten Specifics in State Space Model for Video Semantic Segmentation},
+  author={Zhu, Kai and Cui, Zhenyu and Zang, Zehua and Zhou, Jiahuan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
+}
+```
 
 ### Acknowledgement
 
